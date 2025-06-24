@@ -32,4 +32,4 @@ Dive deep into Netflix trends, visualize global content growth, and get intellig
 
 ```bash
 pip install -r requirements.txt
-streamlit run netflix_dashboard
+streamlit run netflix_dashboard.py
