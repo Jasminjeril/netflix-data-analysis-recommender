@@ -45,4 +45,7 @@ Content-based recommendation using TF-IDF vectorizer over descriptions and cosin
 ```bash
 pip install -r requirements.txt
 streamlit run netflix_dashboard.py
+<<<<<<< HEAD
 
+=======
+>>>>>>> fba8c9d8205c2f94776dd89b6f9444ea6161b5e4
