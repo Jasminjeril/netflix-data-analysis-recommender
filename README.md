@@ -1,5 +1,8 @@
 # 🎬 Netflix Data Analysis & Recommender
-
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red?logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 Dive deep into Netflix trends, visualize global content growth, and get intelligent show/movie recommendations based on descriptions using NLP!
 
 ---
@@ -45,7 +48,3 @@ Content-based recommendation using TF-IDF vectorizer over descriptions and cosin
 ```bash
 pip install -r requirements.txt
 streamlit run netflix_dashboard.py
-<<<<<<< HEAD
-
-=======
->>>>>>> fba8c9d8205c2f94776dd89b6f9444ea6161b5e4
